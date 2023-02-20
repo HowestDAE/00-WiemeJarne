@@ -1,0 +1,8 @@
+C:\ToolDev\00-WiemeJarne\ToolDev-Lab01-Basics\EX01\bin\Debug\EX01.exe.config
+C:\ToolDev\00-WiemeJarne\ToolDev-Lab01-Basics\EX01\bin\Debug\EX01.exe
+C:\ToolDev\00-WiemeJarne\ToolDev-Lab01-Basics\EX01\bin\Debug\EX01.pdb
+C:\ToolDev\00-WiemeJarne\ToolDev-Lab01-Basics\EX01\obj\Debug\EX01.csproj.AssemblyReference.cache
+C:\ToolDev\00-WiemeJarne\ToolDev-Lab01-Basics\EX01\obj\Debug\EX01.csproj.SuggestedBindingRedirects.cache
+C:\ToolDev\00-WiemeJarne\ToolDev-Lab01-Basics\EX01\obj\Debug\EX01.csproj.CoreCompileInputs.cache
+C:\ToolDev\00-WiemeJarne\ToolDev-Lab01-Basics\EX01\obj\Debug\EX01.exe
+C:\ToolDev\00-WiemeJarne\ToolDev-Lab01-Basics\EX01\obj\Debug\EX01.pdb

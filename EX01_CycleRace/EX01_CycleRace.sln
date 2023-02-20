@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX01", "EX01\EX01.csproj", "{6482BBC1-01A1-444F-939C-5015FF20AB1D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX01_CycleRace", "EX01_CycleRace.csproj", "{978B19D8-0209-4C94-80C3-18D5B2A86E3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6482BBC1-01A1-444F-939C-5015FF20AB1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6482BBC1-01A1-444F-939C-5015FF20AB1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6482BBC1-01A1-444F-939C-5015FF20AB1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6482BBC1-01A1-444F-939C-5015FF20AB1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{978B19D8-0209-4C94-80C3-18D5B2A86E3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978B19D8-0209-4C94-80C3-18D5B2A86E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978B19D8-0209-4C94-80C3-18D5B2A86E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978B19D8-0209-4C94-80C3-18D5B2A86E3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C7F2C46E-3059-4120-9D47-7D947EE32412}
+		SolutionGuid = {6FC2CD43-ACC7-4B36-96CC-891688CE0615}
 	EndGlobalSection
 EndGlobal
