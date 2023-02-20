@@ -1,0 +1,8 @@
+C:\ToolDev\00-WiemeJarne\Lab0\bin\Debug\Lab0.exe.config
+C:\ToolDev\00-WiemeJarne\Lab0\bin\Debug\Lab0.exe
+C:\ToolDev\00-WiemeJarne\Lab0\bin\Debug\Lab0.pdb
+C:\ToolDev\00-WiemeJarne\Lab0\obj\Debug\Lab0.csproj.AssemblyReference.cache
+C:\ToolDev\00-WiemeJarne\Lab0\obj\Debug\Lab0.csproj.SuggestedBindingRedirects.cache
+C:\ToolDev\00-WiemeJarne\Lab0\obj\Debug\Lab0.csproj.CoreCompileInputs.cache
+C:\ToolDev\00-WiemeJarne\Lab0\obj\Debug\Lab0.exe
+C:\ToolDev\00-WiemeJarne\Lab0\obj\Debug\Lab0.pdb
