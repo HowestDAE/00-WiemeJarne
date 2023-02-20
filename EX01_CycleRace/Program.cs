@@ -14,13 +14,15 @@ namespace EX01_CycleRace
             Console.WriteLine("Enter the names of the cyclists to start.... (seperate the names with comma's no spaces");
             string namesInputed = Console.ReadLine();
             List<Cyclist> cyclists = new List<Cyclist>{ };
+            ConsoleColor color = ConsoleColor.DarkBlue;
             while(namesInputed.IndexOf(',') != -1) //loop over the namesInputed until no comma's are found
             {
-                cyclists.Add(new Cyclist(namesInputed.Substring(0, namesInputed.IndexOf(','))));
+                cyclists.Add(new Cyclist(namesInputed.Substring(0, namesInputed.IndexOf(',')), color));
                 namesInputed = namesInputed.Remove(0, cyclists.Last().Name.Length + 1);
+                ++color;
             }
             
-            cyclists.Add(new Cyclist(namesInputed)); //add the last name
+            cyclists.Add(new Cyclist(namesInputed, color)); //add the last name
             
             while(true)
             {
@@ -32,6 +34,7 @@ namespace EX01_CycleRace
                     {
                         break; //when the current cyclist has won stop the race
                     }
+
                     cyclist.Display();
                 }
             
