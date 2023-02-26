@@ -24,10 +24,10 @@ namespace EX01_CycleRace
             }
         }
 
-        private Random _rnd = new Random();
+        static private Random _rnd = new Random();
 
         private int _xPos = 0;
-        public int XPos { get; }
+        public int XPos { get { return _xPos; } }
 
         private ConsoleColor _color;
         public ConsoleColor Color { get { return _color; } }
